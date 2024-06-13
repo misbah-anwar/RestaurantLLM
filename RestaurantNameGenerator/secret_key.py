@@ -1,1 +1,1 @@
-groq_api_key = [GROK_API_KEY]
+groq_api_key = ['GROK_API_KEY']
