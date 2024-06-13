@@ -1,3 +1,4 @@
+!pip install -q -U langchain langchain_core langchain_groq gradio
 from secret_key import groq_api_key
 import os
 groq_api_key = os.getenv('GROQ_API_KEY')
