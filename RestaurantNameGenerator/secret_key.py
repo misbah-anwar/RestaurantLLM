@@ -1,1 +1,1 @@
-groq_api_key = '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'
+groq_api_key = [GROK_API_KEY]
