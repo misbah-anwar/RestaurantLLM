@@ -1,8 +1,6 @@
-!pip install -q -U langchain langchain_core langchain_groq gradio
 from secret_key import groq_api_key
 import os
 groq_api_key = os.getenv('GROQ_API_KEY')
-import langchain_groq
 from langchain_groq import ChatGroq
 
 chat = ChatGroq(
