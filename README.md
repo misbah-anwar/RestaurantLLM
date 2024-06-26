@@ -1,4 +1,4 @@
-# Restaurant Name Generator 🍴  
+# RestaurantLLM 🍴  
 Helps you choose a name for your restaurant and suitable menu items to consider. 
 
 Basic LLM Project to learn implementation of LangChain.  
